@@ -5,7 +5,7 @@
 }
 .todo{
     width: 700px;
-    background-color: red;
+    background-color: blue;
     padding: 1px 20px;
     margin: 0 auto;
 }
@@ -14,7 +14,7 @@
     margin: 20px 0;
 }
 .todo .ipt{
-    font-size: 33px;
+    font-size: 20px;
     line-height: 30px;
     width: 600px;
     padding: 0 8px;
